@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Javascript, HTML, CSS, C, C++, Bootstrap, Reactjs**
+- 💬 Ask me about **Javascript, HTML, CSS, C, C++, Bootstrap, Reactjs, Node.js, Redux, RTK, MongoDb, Git, Github**
 
 - 📫 How to reach me **riteshkheda444@gmail.com**
 
